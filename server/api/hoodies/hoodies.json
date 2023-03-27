@@ -1,0 +1,46 @@
+[
+    {
+        "name": "RP63X - BLACK HOODIE",
+        "brand": "Rue Porter",
+        "type": "Hoodie",
+        "color": "Black",
+        "material": "100% Cotton",
+        "weight": "11.5oz",
+        "fit": "oversized",
+        "img": "image here",
+        "blank_template": "https://cdn.shopify.com/s/files/1/0262/6148/7713/files/RP63X_ULTRA_HEAVYWEIGHT_HOODIE_BLACK_TEMPLATE.psd?v=1600073044"
+    },
+    {
+        "name": "RP63X - SAND HOODIE",
+        "brand": "Rue Porter",
+        "type": "Hoodie",
+        "color": "Sand",
+        "material": "100% Cotton",
+        "weight": "11.5oz",
+        "fit": "oversized",
+        "img": "image here",
+        "blank_template": "https://cdn.shopify.com/s/files/1/0262/6148/7713/files/RP63X_-_Hoodie_-_Sand_-_Template.psd?v=1600130482"
+    },
+    {
+        "name": "RP63X - CREAM HOODIE",
+        "brand": "Rue Porter",
+        "type": "Hoodie",
+        "color": "Cream",
+        "material": "100% Cotton",
+        "weight": "11.5oz",
+        "fit": "oversized",
+        "img": "image here",
+        "blank_template": "https://cdn.shopify.com/s/files/1/0262/6148/7713/files/RP63X_-_Hoodie_-_Cream.psd?v=1592027075"
+    },
+    {
+        "name": "RP70X - VINTAGE HOODIE",
+        "brand": "Rue Porter",
+        "type": "Hoodie",
+        "color": "Vintage",
+        "material": "100% Cotton",
+        "weight": "11.5oz",
+        "fit": "oversized",
+        "img": "image here",
+        "blank_template": "https://cdn.shopify.com/s/files/1/0262/6148/7713/files/RP70V_ULTRA-HEAVYWEIGHT_HOODIE_-_VINTAGE_TEMPLATE.psd?v=1600072870"
+    }
+]

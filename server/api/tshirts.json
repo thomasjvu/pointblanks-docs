@@ -1,0 +1,35 @@
+[
+    {
+        "name": "RPX18X - BLACK TEE",
+        "brand": "Rue Porter",
+        "type": "T-Shirt",
+        "color": "Black",
+        "material": "100% Cotton",
+        "weight": "11.5oz",
+        "fit": "oversized",
+        "img": "image here",
+        "blank_template": "https://cdn.shopify.com/s/files/1/0262/6148/7713/files/Rue_Porter_-_Blanks_Template_-_RP18_-_Black.psd?1156"
+    },
+    {
+        "name": "RPX18X - WHITE TEE",
+        "brand": "Rue Porter",
+        "type": "T-Shirt",
+        "color": "White",
+        "material": "100% Cotton",
+        "weight": "11.5oz",
+        "fit": "oversized",
+        "img": "image here",
+        "blank_template": "https://cdn.shopify.com/s/files/1/0262/6148/7713/files/Rue_Porter_-_Blanks_Template_-_RP18_-_White.psd?1156"
+    },
+    {
+        "name": "RPX18X - CREAM TEE",
+        "brand": "Rue Porter",
+        "type": "T-Shirt",
+        "color": "Cream",
+        "material": "100% Cotton",
+        "weight": "11.5oz",
+        "fit": "oversized",
+        "img": "image here",
+        "blank_template": "https://cdn.shopify.com/s/files/1/0262/6148/7713/files/Rue_Porter_-_Blanks_Template_-_RP18X_-_Cream.psd?v=1592027086"
+    }
+]
