@@ -15,7 +15,11 @@ export default defineAppConfig({
             logo: true,
         },
         footer: {
-            credits: false,
+            credits: {
+                icon: "Logo",
+                text: "Point Blanks API",
+                href: "https://pointblanks.xyz"
+            },
             iconLinks: [
                 {
                     href: "https://discord.gg/BNzyrAv",
