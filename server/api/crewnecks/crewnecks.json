@@ -1,0 +1,24 @@
+[
+    {
+        "name": "RP25 - BLACK CREWNECK",
+        "brand": "Rue Porter",
+        "type": "Crewneck",
+        "color": "Black",
+        "material": "100% Cotton",
+        "weight": "11.5oz",
+        "fit": "oversized",
+        "img": "image here",
+        "blank_template": "https://cdn.shopify.com/s/files/1/0262/6148/7713/files/RP25_-_Crewneck_-_Black_-_Template.psd?v=1592028986"
+    },
+    {
+        "name": "RP27V - VINTAGE CREWNECK",
+        "brand": "Rue Porter",
+        "type": "Crewneck",
+        "color": "Vintage",
+        "material": "100% Cotton",
+        "weight": "11.5oz",
+        "fit": "oversized",
+        "img": "image here",
+        "blank_template": "https://cdn.shopify.com/s/files/1/0262/6148/7713/files/RP27V_-_Crewneck_-_Vintage_-_Template.psd?v=1600130491"
+    }
+]

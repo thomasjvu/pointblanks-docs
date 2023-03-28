@@ -1,6 +1,5 @@
-// api/hoodies/all
-// method @GET
-
+// ROUTE    /api/hoodies/all
+// DESC.    @GET All Hoodies
 import hoodieData from "./hoodies.json"
 
 export default eventHandler(async() => {

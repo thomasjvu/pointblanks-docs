@@ -1,3 +1,5 @@
+// ROUTE    /api/hoodies/random
+// DESC.    @GET Random Hoodie
 import hoodieData from './hoodies.json'
 
 export default () => {
